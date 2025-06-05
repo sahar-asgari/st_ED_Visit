@@ -3,4 +3,4 @@ streamlit
 matplotlib
 folium
 streamlit-folium
-scikit-learn==1.2.2
+scikit-learn==1.1.3
