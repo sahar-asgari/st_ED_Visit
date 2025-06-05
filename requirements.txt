@@ -1,4 +1,6 @@
-pickle
 pandas
 streamlit
 matplotlib
+folium
+streamlit-folium
+scikit-learn==1.2.2
